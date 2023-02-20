@@ -1,0 +1,106 @@
+.image img
+{
+    height: 400px;
+    width: 80%;
+    border: 5px solid gray;
+    background-color: chartreuse;
+}
+.main
+{
+    justify-content: center;
+    display: flex;
+}
+.main h2
+{
+    color: black;
+    font-size: 25px;
+}
+.fa
+{
+    color: yellow;
+}
+.main h3
+{
+    color: black;
+    font-size: 23px;
+}
+.main p
+{
+    color:gray;
+}
+.main span
+{
+    font-size: 25px;
+    color: black;
+}
+.main del
+{
+    font-size: 24px;
+    color: gray;
+}
+
+.dear
+{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    /* background-color: chartreuse; */
+}
+.card
+{
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid gray;
+    /* background-color: darkmagenta; */
+}
+.button button
+{
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    background-color: white;
+    color: gray;
+}
+.button button:hover
+{
+    background-color: lightskyblue;
+    color: white;
+}
+.inp input
+{
+    color: black;
+    margin-left: 25px;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    background-color: gray;
+}
+.add button
+{
+    width: 200px;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: rgb(254, 144, 0);
+}
+.add button:hover
+{
+    background-color: chocolate;
+    color: white;
+}
+.main-div
+{
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    /* background-color: chartreuse; */
+}
+.brand h6
+{
+    font-size: 15px;
+    /* background-color: darkmagenta; */
+}

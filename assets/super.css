@@ -1,0 +1,275 @@
+.img {
+    width: 200px;
+    background-color: lightskyblue;
+}
+
+body {
+    background-color: rgb(203, 198, 198);
+}
+
+.inp input {
+    flex-wrap: wrap;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 40px;
+    width: 300px;
+    background-color: white;
+}
+
+.btn-1 button {
+    border-radius: 6px;
+    background-color: white;
+    color: lightskyblue;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.btn-2 button {
+    border-radius: 10px;
+    padding: 15px;
+    background-color: lightskyblue;
+    color: white;
+    border: 2px solid white;
+}
+
+.main {
+    flex-wrap: wrap;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightskyblue;
+    display: flex;
+}
+
+.btn-3 {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    width: 180px;
+    /* background-color: crimson; */
+}
+
+.mobile-shop {
+    flex-wrap: wrap;
+    margin-right: 110px;
+    margin-left: 110px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    background-color: white;
+}
+
+.mobile-2 h6 {
+    font-size: 12px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 110px;
+    /* background-color: crimson; */
+}
+
+.mobile-2 {
+    width: 100%;
+    background-color: white;
+}
+
+.bk-1 img {
+    background-color: #e8eaeb;
+    margin-bottom: 50px;
+    height: 400px;
+    width: 100%;
+}
+
+.h1 h1 {
+    width: 220px;
+    color: rgb(67, 63, 63);
+    /* background-color: red; */
+}
+
+.h1 h1:hover {
+    background-color: grey;
+    color: white;
+}
+
+.view span {
+    font-size: 17px;
+    color: lightskyblue;
+    /* background-color: chartreuse; */
+}
+
+.latest {
+    flex-wrap: wrap;
+    margin-left: 100px;
+    width: 87%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    background-color: rgb(203, 198, 198);
+}
+
+.smart img {
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 150px;
+}
+
+.smart {
+    height: 320px;
+    align-items: center;
+    width: 20%;
+    background-color: white;
+}
+
+.smart h5 {
+    margin-bottom: 40px;
+    color: gray;
+    font-size: 15px;
+}
+
+.smart span {
+    color: black;
+    font-size: 20px;
+}
+
+.smart del {
+    color: gray;
+}
+
+.notification {
+    flex-wrap: wrap;
+    margin-top: 10px;
+    justify-content: space-around;
+    display: flex;
+    /* background-color: chartreuse; */
+}
+
+.About {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    /* background-color: aquamarine; */
+}
+
+.price {
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 10%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    width: 1250px;
+    /* background-color: red; */
+}
+
+.price h2 {
+    color: black;
+}
+
+.price span {
+    font-size: 20px;
+    color: lightskyblue;
+}
+
+.button button {
+    flex-wrap: wrap;
+    font-weight: bold;
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-size: 20px;
+    background-color: yellow;
+    color: black;
+}
+
+.button {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    /* background-color: burlywood; */
+}
+
+.button button:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.brand h3 {
+    font-size: 20px;
+    /* background-color: crimson; */
+    color: black;
+}
+.brand span
+{
+    margin-left: 800px;
+    font-size: 20px;
+    /* background-color: chartreuse; */
+    color: lightskyblue;
+}
+.brand
+{
+    flex-wrap: wrap;
+    margin-top: 27px;
+    width: 1300px;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+/* background-color: chartreuse; */
+}
+.realme
+{
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 110px;
+    width: 1100px;
+    justify-content: space-around;
+    display: flex;
+    /* background-color: chartreuse; */
+}
+.realme p
+{
+    margin-left: 20px;
+}
+.realme img
+{
+    width: 70px;
+}
+.faqs img
+{
+    width: 200px;
+}
+.footer
+{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    color: white;
+    background-color: lightskyblue;
+}
+.pk
+{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: flex;
+    background-color: lightskyblue;
+}
+.pk h3
+{
+    font-size: 20px;
+    color: white;
+}
+.fa
+{
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid white;
+    color: lightskyblue;
+    font-size: 20px;
+background-color: white;
+}
+.icon
+{
+    width: 200px;
+    /* background-color: chartreuse; */
+}
